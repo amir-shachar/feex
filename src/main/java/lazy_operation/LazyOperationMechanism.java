@@ -1,4 +1,4 @@
-package feex.assingment;
+package lazy_operation;
 
 import jdk.dynalink.NoSuchDynamicMethodException;
 
